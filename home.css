@@ -1,0 +1,10 @@
+.container-fluid{
+    position: relative;
+    text-align: center;
+    
+}
+.text_side{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
